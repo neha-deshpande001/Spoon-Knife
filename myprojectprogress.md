@@ -1,0 +1,1 @@
+I think that the best way to organize the project will be using a common repository. This way, everyone can branch off of the same repository, and make pull requests there too. Using a common repository is very easy and simple way so that anyone can start editing the code and making pull requests, even as a beginner.
